@@ -66,6 +66,7 @@ h6{color: red;position:absolute; top:610px;left: 670px;}
  .seccion{display: flex;flex-direction:row;width: calc(50% - 2em);
     margin: 1em; center;word-wrap: normal;
     font-size: 20px;}
+.aa{align-items: center;}
 
 @keyframes animation {
     100%{
