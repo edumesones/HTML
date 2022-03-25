@@ -1,0 +1,69 @@
+
+.title {
+  font-size: 5.6rem;
+  font-family: 'Lobster', cursive;padding:10px 20px; margin: 0px 0px; position: absolute; left: 400px;
+
+}
+
+.wrapper {
+  background: url("https://images.unsplash.com/photo-1465146633011-14f8e0781093?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3450&q=80");
+  color: #eee;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  perspective: 1000px;
+  perspective-origin: 50% 50%;
+  animation: animation 100s linear infinite;
+}
+.miestilo{
+  width: 200; margin-left: 300px;
+  height: 300;
+  border-color: red; padding: 30px 30px;
+}
+h6 {margin-left: 300px;  font-size: 30px;color: white;font-family: 'Lobster', cursive;}
+@keyframes animation {
+   100%{
+    background-position:0px -3000px;
+  }
+}
+.submit {width: 100; margin-left: 20px;
+height: 30;
+border-color: red; padding:30px 30px;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(73, 70, 70);
+  position: absolute;
+  top: 15px;
+  width: 100%;
+  height:100px;
+  align-items: center;
+}
+li{
+  float:left
+}
+.logo {position: absolute;top: 15px;right: 1px;
+height:100px;
+width: 100px;
+padding:0px;}
+
+li a{
+  display:block;
+  font-family: fantasy;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 50px;
+  text-decoration: solid;
+  
+}
+li a:hover {background-color: blue;
+          color: darkgrey;
+      height: 100%;}
