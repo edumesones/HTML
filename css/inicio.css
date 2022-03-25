@@ -54,7 +54,7 @@ li a:hover {background-color: blue;
 .info {display:block; background-color: rgb(32, 10, 224);
     color: white;
     text-align: center;font-family: cursive ; position: absolute; font-size: 18px;width: 500px;height: 100px; top: 600px;left: 120px;}
-.situacion {border: 3px solid; border-color: red;position: absolute;top: 600px;left: 650px;}
+
 
 h6{color: red;position:absolute; top:610px;left: 670px;}
 
@@ -73,6 +73,17 @@ h6{color: red;position:absolute; top:610px;left: 670px;}
      background-position:0px -3000px;
    }
  }
+ 
+  .hacerzoom {
+    border: 3px solid; border-color: red;position: absolute;top: 600px;left: 650px;
+    transition: transform .2s; 
+}
+ 
+.hacerzoom:hover {
+    transform: scale(3); 
+}
+
+
 .container{  display: grid;
     align-content: center;
     grid-template-columns: repeat(4, 1fr);
