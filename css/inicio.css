@@ -63,10 +63,10 @@ h6{color: red;position:absolute; top:610px;left: 670px;}
 .precios{display:block; background-color: rgb(32, 10, 224);
     color: white;
     text-align: center;font-family: cursive ; position: absolute; font-size: 18px;width: 500px; height: 100px; top: 600px;left: 1035px;}
- .seccion{display: flex;flex-direction:row;width: calc(50% - 2em);
-    margin: 1em; center;word-wrap: normal;
+.seccion{display: flex;flex-direction:row;width: calc(50% - 2em);
+    margin: 1em; text-align: center;word-wrap: normal;
     font-size: 20px;}
-.aa{align-items: center;}
+
 
 @keyframes animation {
     100%{
