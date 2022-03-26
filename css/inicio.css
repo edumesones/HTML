@@ -13,8 +13,8 @@
   }
 
   .title {
-    font-size: 5.6rem;
-    font-family: 'Lobster', cursive;padding:10px 20px; margin: 0px 0px; position: absolute; left: 500px; top:200px;}
+    font-size: 3.2rem;
+    font-family: 'Lobster', cursive;padding:10px 20px; margin: 0px 0px; position: absolute; left: 900px; top:500px;}
   
   
 ul {
@@ -75,7 +75,7 @@ h6{color: red;position:absolute; top:610px;left: 670px;}
  }
  
   .hacerzoom {
-    border: 3px solid; border-color: red;position: absolute;top: 600px;left: 650px;
+    border: 3px solid; border-color: red;
     transition: transform .2s; 
 }
  
