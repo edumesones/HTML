@@ -1,0 +1,6 @@
+He aplicado en mi codigo las lineas de:
+Description: ofrezco una descripcion de la empresa sobre la cual
+esta hecha la pagina web
+Keywords: Listado de palabras clave para que el buscador asocie
+el contenido de la busqueda con mi pagina web
+Asimismo he titulado cada html de mi pagina web.
