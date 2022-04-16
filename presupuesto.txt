@@ -1,0 +1,28 @@
+¿Que servicios se ofrece?
+
+Diseño y mantenimiento de una pagina web completo
+
+¿Que herramientas incluye?
+
+HTML,CSS,NODE,GIT,JAVASCRIPT,Google analytics,SASS integrado
+
+Fases del desarrollo:
+1) estructura y contenido de la pagina web (SKETCH) - 2 semanas
+2) Modelado y estilo de la pagina web - 2 semanas
+3) SEO y analisis del usuario dentro de la pagina web (google analytics + tag manager ) - 1 semana
+
+Soporte y mantenimiento mensual de la pagina - 3 dias 
+ 
+ PAGO:
+ Cada uno de los pasos se abonará por adelantado via tarjeta de credito
+ El siguiente paso no se comenzará hasta el pago de éste y el conforme entre
+ las dos partes del trabajo realizado
+
+ ¿Que incluye el soporte y mantenimiento?
+ Mantenimiento dle hosting
+ Actualizacion de plugins
+ Actualizacion de contenido
+ Nuevas paginas**
+ Nuevos diseños**
+
+ Puede incurrir en gastos adicionales
